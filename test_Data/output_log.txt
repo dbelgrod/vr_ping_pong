@@ -1,0 +1,108 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.313 seconds
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David Belgrod\Documents\New Unity Project\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+desktop: 1400x1050 60Hz; virtual: 1400x1050 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour (Game Object 'Controller (left)') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.703809 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+Connected to lighthouse:LHR-E4C408E3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5780 -> priority: 1 
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 798x842 MSAA=2 [ARGB32] New: 1597x1685 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Recreating scene texture.. Old: 1597x1685 MSAA=2 [ARGB32] New: 798x842 MSAA=2 [ARGB32]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
