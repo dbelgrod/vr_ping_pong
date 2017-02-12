@@ -1,6 +1,6 @@
 The goal of this project is to show the complications VR has with a game like ping-pong. 
-Collisions between the ball and racket are not detected timely when the racket moves faster than the required 90fps 
-so we have to predict collisions and parent the ball to the racket in order to ensure the ball reacts with the rackets hit
+Collisions between the ball and racket are not detected timely when the racket moves faster than the required 90fps so we have to predict collisions and parent the ball to the racket in order to ensure the ball reacts with the rackets hit
+
 PLAYING:
 Load up the scene in: Assets/Scenes/temp.unity
 
